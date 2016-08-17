@@ -1,2 +1,5 @@
 # hello-world
-To create a new repository
+
+Hi Fellow Students:
+
+Old student here, trying to survive the rat race.
